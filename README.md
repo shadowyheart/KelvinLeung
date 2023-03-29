@@ -1,5 +1,4 @@
-# HI!😄 I'm KelvinLeung
-
+# HI!😄 I'm Kelvin
 <h2> ⚒️ &nbsp;Languages and Tools:</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="vscode" width="45" height="45"/>
